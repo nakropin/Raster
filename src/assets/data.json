@@ -1,0 +1,36 @@
+{
+  "firmen": [
+    {
+      "name": "Musterfirma GmbH",
+      "anrede": "Herr",
+      "kontaktperson": "Mustermann",
+      "ort": "Musterstadt",
+      "quelle": "Suchmaschine",
+      "stelle": "Softwareentwickler"
+    },
+    {
+      "name": "Beispiel AG",
+      "anrede": "Frau",
+      "kontaktperson": "Musterfrau",
+      "ort": "Beispielstadt",
+      "quelle": "Jobbörse",
+      "stelle": "Frontend-Entwickler"
+    },
+    {
+      "name": "Job AG",
+      "anrede": "Herr",
+      "kontaktperson": "Mustermann",
+      "ort": "Musterstadt",
+      "quelle": "Suchmaschine",
+      "stelle": "Arbeiter"
+    },
+    {
+      "name": "Work Gmbh",
+      "anrede": "Frau",
+      "kontaktperson": "Muster",
+      "ort": "Stadt",
+      "quelle": "Quelle",
+      "stelle": "Drohne"
+    }
+  ]
+}
